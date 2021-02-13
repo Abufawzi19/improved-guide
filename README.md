@@ -1,2 +1,2 @@
-# improved-guide
+# IDEX-Replicator-Staker
 just another repository
